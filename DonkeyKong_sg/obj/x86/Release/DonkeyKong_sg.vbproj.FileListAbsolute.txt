@@ -1,0 +1,11 @@
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\bin\Release\DonkeyKong_sg.exe
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\bin\Release\DonkeyKong_sg.pdb
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\bin\Release\DonkeyKong_sg.xml
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Release\WindowsApplication1.Mainform.resources
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Release\WindowsApplication1.frmDeath.resources
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Release\WindowsApplication1.frmWin.resources
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Release\DonkeyKong_sg.exe
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Release\DonkeyKong_sg.xml
+C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Release\DonkeyKong_sg.pdb
