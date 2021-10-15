@@ -39,3 +39,17 @@ F:\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.frmWin.resource
 C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.FrmControls.resources
 C:\Users\RP4K\Desktop\DonkeyKong_sg\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.frmtiltle.resources
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\bin\Debug\DonkeyKong_sg.exe
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\bin\Debug\DonkeyKong_sg.pdb
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\bin\Debug\DonkeyKong_sg.xml
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.Mainform.resources
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.FrmControls.resources
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.frmDeath.resources
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.frmtiltle.resources
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.frmWin.resources
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\DonkeyKong_sg.vbproj.GenerateResource.cache
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\DonkeyKong_sg.vbproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\DonkeyKong_sg.exe
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\DonkeyKong_sg.xml
+C:\Users\Sam\Desktop\Repos\Donkey-Kong\DonkeyKong_sg\obj\x86\Debug\DonkeyKong_sg.pdb
